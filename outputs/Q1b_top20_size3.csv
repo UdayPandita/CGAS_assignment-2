@@ -1,0 +1,21 @@
+itemset,size,count,support
+butter | eggs | flour,3,219,0.021902190219021903
+butter | eggs | self-raising flour,3,212,0.0212021202120212
+butter | flour | milk,3,191,0.019101910191019103
+butter | eggs | icing sugar,3,178,0.0178017801780178
+butter | eggs | golden caster sugar,3,174,0.0174017401740174
+eggs | icing sugar | self-raising flour,3,174,0.0174017401740174
+eggs | flour | powder,3,172,0.017201720172017203
+butter | eggs | milk,3,171,0.017101710171017102
+butter | eggs | powder,3,171,0.017101710171017102
+butter | eggs | vanilla extract,3,155,0.015501550155015502
+eggs | golden caster sugar | self-raising flour,3,155,0.015501550155015502
+eggs | milk | self-raising flour,3,151,0.015101510151015102
+eggs | golden caster sugar | icing sugar,3,150,0.015001500150015001
+eggs | flour | milk,3,148,0.014801480148014802
+butter | caster sugar | eggs,3,144,0.0144014401440144
+eggs | powder | self-raising flour,3,141,0.014101410141014101
+eggs | flour | icing sugar,3,139,0.0139013901390139
+eggs | flour | golden caster sugar,3,138,0.013801380138013802
+eggs | icing sugar | powder,3,131,0.013101310131013101
+eggs | icing sugar | vanilla extract,3,131,0.013101310131013101

@@ -1,0 +1,8 @@
+Support: the fraction (or count) of transactions (recipes) that contain an itemset.
+  support(X) = |{recipes containing all items of X}| / |all recipes|.
+  Itemsets with support >= a user-chosen minimum threshold are 'frequent'. Support is anti-monotone:
+  a superset can never have higher support than its subsets (basis of Apriori pruning).
+
+Confidence: for an association rule X -> Y, the conditional probability that a recipe containing X
+  also contains Y.  confidence(X -> Y) = support(X u Y) / support(X).
+  It measures how reliable the rule is (e.g. conf(onion -> garlic)=0.4: 40% of onion recipes also have garlic).
